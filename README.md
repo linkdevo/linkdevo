@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexandre Link</h1>
-<h3 align="center">Software Developer in Training</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **React JS and SQL**
-
-- I'm looking for my first opportunity **Internship, Junior**
 
 - 🤝 I’m looking for help with **Create New Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/linkdevo](https://github.com/linkdevo)
 
-- 💬 Ask me about **HTML5, CSS3, Java, JavaScript, Object-oriented programming**
-
 - 📫 How to reach me **https://www.linkedin.com/in/alexandre-link-73b8791ab/**
 
-- 📄 Know about my experiences [Sales and Communication](Sales and Communication)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
