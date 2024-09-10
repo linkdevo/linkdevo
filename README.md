@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Link</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **React JS and SQL**
+- 🌱 I currently work with APIs in a Fintech, with **Node, TypeScript, Mongo and React Native**.
 
 - 🤝 I’m looking for help with **Create New Projects**
 
