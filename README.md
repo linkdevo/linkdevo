@@ -3,10 +3,6 @@
 
 - 🌱 I currently work with APIs in a Fintech, with **Node, TypeScript, Mongo and React Native**.
 
-- 🤝 I’m looking for help with **Create New Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/linkdevo](https://github.com/linkdevo)
-
 - 📫 How to reach me **https://www.linkedin.com/in/alexandre-link-73b8791ab/**
 
 
