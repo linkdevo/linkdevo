@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Link</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I currently work with APIs in a Fintech, with **Node, TypeScript, Mongo and React Native**.
+- 🌱 I currently work with APIs in a Fintech, with **Node, TypeScript, Python, Mongo and React Native**.
 
 - 📫 How to reach me **https://www.linkedin.com/in/alexandre-link-73b8791ab/**
 
